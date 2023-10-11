@@ -1,0 +1,60 @@
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,151 @@
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagerment.resources
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.Properties.Resources.resources
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\BussinessObject.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\BussinessObject.pdb
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\PC\Desktop\Chuyên Ngành\Kì 5\PRN211\AllProject\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberDetail.resources
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\BussinessObject.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\BussinessObject.pdb
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberDetail.resources
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagerment.resources
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.Properties.Resources.resources
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll
+C:\Users\PC\Desktop\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagerment2.resources
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\BussinessObject.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\BussinessObject.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberDetail.resources
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagerment.resources
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.Properties.Resources.resources
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll
+C:\Users\ryy15\OneDrive\Documents\C#\Ass01Solution_NET1713_NgoQuangDung\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\AdvancedDataGridView.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberDetail.resources
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagerment.resources
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.Properties.Resources.resources
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\AdvancedDataGridView.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\BussinessObject.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\BussinessObject.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+C:\Users\ryy15\OneDrive\Documents\C#\namphan\Ass01Solution_NET1713_NgoQuangDung\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll

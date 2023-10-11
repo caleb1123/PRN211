@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\MyStoreWinApp\\MyStoreWinApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\BussinessObject\\BussinessObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\BussinessObject\\BussinessObject.csproj",
+        "projectName": "BussinessObject",
+        "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\BussinessObject\\BussinessObject.csproj",
+        "packagesPath": "C:\\Users\\ryy15\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\BussinessObject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ryy15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ryy15\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ryy15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\BussinessObject\\BussinessObject.csproj": {
+                "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\BussinessObject\\BussinessObject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\MyStoreWinApp\\MyStoreWinApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\MyStoreWinApp\\MyStoreWinApp.csproj",
+        "projectName": "MyStoreWinApp",
+        "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\MyStoreWinApp\\MyStoreWinApp.csproj",
+        "packagesPath": "C:\\Users\\ryy15\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\MyStoreWinApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ryy15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\BussinessObject\\BussinessObject.csproj": {
+                "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\BussinessObject\\BussinessObject.csproj"
+              },
+              "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\namphan\\ASS1\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "DG.AdvancedDataGridView": {
+              "target": "Package",
+              "version": "[1.2.27307.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
