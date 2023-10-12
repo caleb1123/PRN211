@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eMeptCNtvPK7vmd4J+2sAq1EpKrEdlMnKae0LJPyqJGWV+HJ8L+iBQ57ha8LFRfqY8INyupjq1bpr3YpyjHKHA==",
+  "dgSpecHash": "fpEyaggSovDfb476qZmMJKvoc69HhkSocxqoixj5DPGQJzO9tTfAz0vBeaaQhIg1jtNzZDUoejVdm/88cFVbSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\SaleManage1\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\ASS2\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ryy15\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ryy15\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

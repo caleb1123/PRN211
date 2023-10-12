@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\SaleManage1\\SaleWinApp\\SaleWinApp.csproj": {}
+    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\ASS2\\SaleWinApp\\SaleWinApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\SaleManage1\\SaleWinApp\\SaleWinApp.csproj": {
+    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\ASS2\\SaleWinApp\\SaleWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\SaleManage1\\SaleWinApp\\SaleWinApp.csproj",
+        "projectUniqueName": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\ASS2\\SaleWinApp\\SaleWinApp.csproj",
         "projectName": "SaleWinApp",
-        "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\SaleManage1\\SaleWinApp\\SaleWinApp.csproj",
+        "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\ASS2\\SaleWinApp\\SaleWinApp.csproj",
         "packagesPath": "C:\\Users\\ryy15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\SaleManage1\\SaleWinApp\\obj\\",
+        "outputPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\ASS2\\SaleWinApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

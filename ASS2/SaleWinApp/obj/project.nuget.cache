@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tlOK3163ltXmb/+laJYjYnanS3IST03ol+MMbN2YkSUqA77VKvLcatvaIhsla2DB2I3wdlh5d7SuVQaksR6ABg==",
+  "dgSpecHash": "In58m9V6eF+Nndf30nfnJR8sArl41lZZyFae0STaaZ2EK0UlQAZyXYLtuiw5KxBkIehCWO6+EdWL8QCtZ5yU4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\SaleManage1\\SaleWinApp\\SaleWinApp.csproj",
+  "projectFilePath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\ASS2\\SaleWinApp\\SaleWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ryy15\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
     "C:\\Users\\ryy15\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "56p+vmJGmW3ts2Hga+PqXY72MChoGGgL5Fyb2VaGWnB5bvMiFUgt1ag+ySw+usPyaAL6E1D2PYx9f5dQmeDyhQ==",
+  "dgSpecHash": "XvMYL/Xh85z7203h6aqvyvcPhUZXhiw6fBmqlqH+w6Ve5dpg3wz9tqwxsI+U312IvTt//Wub0JrTTAeYI7romQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\SaleManage1\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\PRN211\\ASS2\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ryy15\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ryy15\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
